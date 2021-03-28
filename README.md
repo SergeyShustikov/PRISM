@@ -14,3 +14,5 @@ Tooling for developer productivity.
 <h1> Documentation </h1>
 To get started with RIBs, please refer to the PRISM documentation. This describes key concepts on PRISM, from what does it  for, PRISM structure and common use cases.
 
+<h6>Inspired by Uber RIBs.</h6>
+
