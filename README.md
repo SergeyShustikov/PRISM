@@ -10,3 +10,7 @@
 - Testability and Isolation. Classes must be easy to unit test and reason about in isolation. Individual PRISM classes have distinct responsibilities like: routing, business, view logic, creation. Plus, most PRISM logic is decoupled from child PRISM logic. This makes PRISM classes easy to test and reason about independently.
 Tooling for developer productivity. 
 - An architecture that scales. This architecture has proven to scale to hundreds of engineers working on the same codebase and apps with hundreds of RIBs.
+
+<h1> Documentation </h1>
+To get started with RIBs, please refer to the PRISM documentation. This describes key concepts on PRISM, from what does it  for, PRISM structure and common use cases.
+
