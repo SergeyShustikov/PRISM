@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/6190091/112744311-a70eaf80-8fa7-11eb-8378-ac91cee5773b.png">
 </p>
-<b>PRISM is the Flutter architecture framework. The name PRISM is short for Presenter, Router, Interactor, Screen and Model which are core components of this architecture. This framework is designed for mobile apps with a large number of engineers and nested states.</b>
+<b>PRISM is the Flutter architecture framework. The name PRISM is short for Provider, Router, Interactor, Screen and Model which are core components of this architecture. This framework is designed for mobile apps with a large number of engineers and nested states.</b>
 
 
 <br>The PRISM architecture provides:
