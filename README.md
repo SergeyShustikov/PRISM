@@ -12,7 +12,7 @@ Tooling for developer productivity.
 - An architecture that scales. This architecture has proven to scale to hundreds of engineers working on the same codebase and apps with hundreds of RIBs.
 
 <h1> Documentation </h1>
-To get started with RIBs, please refer to the PRISM documentation. This describes key concepts on PRISM, from what does it  for, PRISM structure and common use cases.
+To get started with PRISM, please refer to the PRISM documentation. This describes key concepts on PRISM, from what does it  for, PRISM structure and common use cases.
 
 <h6>Inspired by Uber RIBs.</h6>
 
